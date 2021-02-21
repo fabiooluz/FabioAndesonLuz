@@ -20,6 +20,6 @@ Tenho interesse nas áreas de Desenvolvimento Front-end | Analista de dados.
 - [handlebars]
 
 
-**[LINKEDIN](https://www.linkedin.com/in/fabiooluz/)*
+**[LinkedIn](https://www.linkedin.com/in/fabiooluz/)*
 
 
