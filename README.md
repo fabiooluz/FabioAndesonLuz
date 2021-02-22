@@ -18,7 +18,7 @@ Tenho interesse nas áreas de Desenvolvimento Front-end | Analista de dados.
 - [JavaScript]
 - [Node.js]
 - [REACTJS]
-- [handlebars]
+
 
 
 **[LinkedIn](https://www.linkedin.com/in/fabiooluz/)**
