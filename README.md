@@ -11,7 +11,11 @@ Possuo perfil analítico e capacidade de me adaptar às mudanças, trabalho em e
 setor industrial e tecnologia mecânica.
 Atualmente trabalho como estagiário de TI tendo como principal tarefa, suporte ao usuário.
 
-Tenho interesse em atuar nas áreas de - Desenvolvimento de Software - [Analista de Dados] - BI
+### Tenho interesse em atuar nas áreas de 
+
+- Desenvolvimento de Software 
+- Analista de Dados
+- BI
 
 
 ## Tecnologias que estou estudando  🚀 🚀 🚀
