@@ -7,8 +7,8 @@ Tenho tido como foco de estudos as tecnologias de Front-end: HTML5 | CSS | JavaS
 Também tenho conhecimento em Node.js, SQL, Modelagem de dados, Orientação a objetos, UML, Phyton,
 Java Swing, ITIL V3 para gerenciamento de serviços de TI.
 
-Possuo perfil analítico, experiência no setor industrial e tecnologia mecânica.
-Atualmente trabalho como estagiário de TI tendo como principal tarefa, suporte ao usuário.
+Atualmente trabalho como estagiário de TI tendo como principal tarefa, suporte ao usuário. 
+E busco por oportunidades como Analista desenvolvedor Júnior.
 
 
 ### Tenho interesse em atuar nas áreas de:
