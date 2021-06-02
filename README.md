@@ -5,11 +5,8 @@
 
 ### Sou Graduando em Análise e Desenvolvimento de Sistemas.
 
-Tenho tido como foco de estudos as tecnologias de Front-end: HTML5 | CSS | JavaScript | React |  
-Também tenho conhecimento em Node.js, SQL, Modelagem de dados, Orientação a objetos, UML, Phyton,
-Java Swing, ITIL V3 para gerenciamento de serviços de TI.
-
-Atualmente trabalho como estagiário de TI, tendo como principal tarefa suporte ao usuário. 
+Tenho tido como foco de estudos as tecnologias de Front-end e atualmente trabalho como estagiário de TI, 
+Tendo como principal tarefa suporte ao usuário. 
 Busco por oportunidades como Analista desenvolvedor Júnior ou estágio na área de Desenvolvimento de Sistemas.
 
 
