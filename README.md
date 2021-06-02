@@ -9,7 +9,7 @@ Tenho tido como foco de estudos as tecnologias de Front-end e atualmente trabalh
 Tendo como principal tarefa suporte ao usuário. 
 Busco por oportunidades como Analista desenvolvedor Júnior ou estágio na área de Desenvolvimento de Sistemas.
 
-
+##
 
 
  <div>
