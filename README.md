@@ -1,6 +1,6 @@
 
 
-## Ola! Eu sou a Fábio Luz 👋 
+## Ola! Eu sou o Fábio Luz 👋 
 
 
 ### Sou Graduando em Análise e Desenvolvimento de Sistemas.
